@@ -1,0 +1,6 @@
+
+State Machine - |piano|i2c_codec_control:u1|mSetup_ST
+Name mSetup_ST.000 mSetup_ST.010 mSetup_ST.001 
+mSetup_ST.000 0 0 0 
+mSetup_ST.001 1 0 1 
+mSetup_ST.010 1 1 0 
